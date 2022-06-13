@@ -1,7 +1,7 @@
 ### ¡Hola! 👋
 My name is Jorge, I'm a web developer and future software engineer from Spain.
 - 🔭 I'm currently working on [Palathea](https://palathea.com) and [Grafema](https://beta.grafema.app/).
-- 🌱 I'm currently learning about ✨[Svelte/Svelte-kit](svelte.dev)✨ and ✨[Prisma](prisma.io)✨.
+- 🌱 I'm currently learning about ✨[Svelte/Svelte-kit](https://svelte.dev)✨ and ✨[Prisma](https://prisma.io)✨.
 - 📫 How to reach me? Ask whatever you want [right here](https://github.com/abnazhor/abnazhor/issues).
 
 <!--
